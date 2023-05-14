@@ -1,0 +1,10 @@
+/* O arquivo reset, é responsável por resetar propriedades do css padrão do projeto. */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style: none;
+}
